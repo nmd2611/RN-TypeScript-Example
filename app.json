@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "typescript-tut",
-    "slug": "typescript-tut",
+    "name": "RN-TypeScript-Example",
+    "slug": "RN-TypeScript-Example",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -13,9 +13,7 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
